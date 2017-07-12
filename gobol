@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+# gnucobol $1 main.c
+# c2go main.c main.gox
